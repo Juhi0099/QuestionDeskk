@@ -1,1 +1,1 @@
-web: gunicorn QuestionsDesk2.wsgi
+web: cd QuestionsDesk2.0 && gunicorn QuestionsDeskApp.wsgi
